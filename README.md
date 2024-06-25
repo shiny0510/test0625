@@ -9,9 +9,11 @@
    1)웹: flask로 구성하여 Serving 하였음.
 
    2)딥러닝: VIT 모델 사용 
+
      ![architecture](https://github.com/shiny0510/test0625/assets/85111065/6f37fb36-da5c-4743-8f92-8c8aa24958a1)
 
 4. 결과:
+
 ![output](https://github.com/shiny0510/test0625/assets/85111065/1ff75778-4b58-4f40-b851-df03badcc66d)
 
 5. 고찰:
