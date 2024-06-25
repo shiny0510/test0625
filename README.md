@@ -5,6 +5,7 @@
 2. 장소: 알파코 딥러닝 부트캠프
 
 3. method
+   데이터: MNIST
 
    1)웹: flask로 구성하여 Serving 하였음.
 
